@@ -1,0 +1,9 @@
+package banks;
+
+public class Nationwide extends Bank{
+
+	public static void main(String[] args) {
+		System.out.println("Nationwide");
+		
+	}
+}
